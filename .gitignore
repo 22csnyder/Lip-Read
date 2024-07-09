@@ -1,0 +1,8 @@
+__pycache__/
+Data/
+Results/
+vdumoulin-morphing_faces/data/
+*.py[cod]
+*.so
+saveresultstest/
+.DS_Store
